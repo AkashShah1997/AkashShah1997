@@ -1,6 +1,33 @@
-<h3 align ="center"> <img src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="22"/> Hi there! </h3>
+# Hi, I'm Akash Shah! 👋
 
-<p align="center">I'm a high school student in Hungary interested mostly in web development. I'm currently learning backend development using ASP.NET Core and Laravel to compliment React, and I'm making all sorts of frontend and fullstack web applications. Feel free to check out my portfolio at https://xeretis.me/. Anyways, here are my Github stats :)</p>
+🎓 **Master of Engineering (Systems and Technology)** student at McMaster University  
+💻 **Sr. Software Developer** with 4+ years of experience  
+🌐 Passionate about **solving complex problems** and **driving process improvements** through **high-quality code**  
+
+---
+
+### 💼 Professional Experience
+- **Sr. Programmer Analyst** @ Meditab Softwares Pvt. Ltd.
+  - Developed robust applications using **C#, .NET, SQL** with a focus on performance optimization.
+  - Led projects to improve client satisfaction by reducing screen load times from 10+ seconds to less than 3 seconds.
+  - Designed and implemented scalable **Web API solutions** for seamless system integration.
+  
+- **Intern - Developer & Designer** @ Gresol Lubricants
+  - Developed a full-stack **Inventory Portal** using **ASP.Net, C#, JavaScript**, and **SQL**.
+  - Built and launched the company’s website using **WordPress** and **PHP**, increasing client reach and brand awareness.
+
+---
+
+### 🛠️ Technical Skills
+
+**Languages**: C#, Python, Java, SQL, PHP, JavaScript, HTML/CSS  
+**Tools**: Visual Studio, GitHub, GitLab, Firebase  
+**Technologies**: Web API, .NET Core, Microservices, Linux, Jenkins  
+**Frameworks**: WordPress, ASP.Net, Firebase, Android Studio  
+
+---
+
+<p align="center">Feel free to check out my portfolio at https://xeretis.me/. Anyways, here are my Github stats :)</p>
 
 
 <div align="center" valign="center">
