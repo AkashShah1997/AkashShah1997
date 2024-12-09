@@ -27,9 +27,6 @@
 
 ---
 
-<p align="center">Feel free to check out my portfolio at https://xeretis.me/. Anyways, here are my Github stats :)</p>
-
-
 <div align="center" valign="center">
       <img src="https://github-readme-stats.vercel.app/api?username=AkashShah1997&count_private=true&theme=tokyonight&hide=prs&hide_border=true" width="500" />
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=AkashShah1997&theme=tokyonight&hide_border=true" width="500"/>
