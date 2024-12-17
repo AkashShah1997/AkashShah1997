@@ -1,6 +1,6 @@
 # Hi, I'm Akash Shah! 👋
 
-🎓 **Master of Engineering (Systems and Technology)** student at McMaster University  
+🎓 **Master of Engineering (Systems and Technology)** at McMaster University  
 💻 **Sr. Software Developer** with 6+ years of experience  
 🌐 Passionate about **solving complex problems** and **driving process improvements** through **high-quality code**  
 
